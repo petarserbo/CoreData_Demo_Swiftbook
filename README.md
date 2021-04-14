@@ -1,5 +1,5 @@
 # CoreData_Demo_Swiftbook
 
-##About
+## About
 
 Simple To-do List app with Core Data.
