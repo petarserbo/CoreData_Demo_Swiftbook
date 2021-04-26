@@ -2,4 +2,4 @@
 
 ## About
 
-Simple To-do List app with Core Data.
+The To-do List app with Core Data.
